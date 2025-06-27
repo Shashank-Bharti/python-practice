@@ -64,9 +64,6 @@ Each Python file typically contains:
 - Solution implementation
 - Test cases
 
-# Test the solution
-solution(12)
-```
 
 ## 🔄 Future Plans
 
