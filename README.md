@@ -25,15 +25,11 @@ This repository contains my solutions to various Python programming problems fro
 
 ### Other Problems
 - **[table difference.py](table%20difference.py)** - Table difference calculations
-- **[test.py](test.py)** - Test file for experimentation
+
 
 ## 📖 Problem Sources
 
 - **GeeksforGeeks (GFG)** - Comprehensive programming problems
-- **LeetCode** - Algorithm and data structure challenges
-- **HackerRank** - Programming contests and practice
-- **CodeChef** - Competitive programming problems
-- **Other coding platforms** - Various online judges and practice sites
 
 ## 🎯 Learning Objectives
 
