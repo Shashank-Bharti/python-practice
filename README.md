@@ -45,7 +45,7 @@ This repository contains my solutions to various Python programming problems fro
 - **Code optimization** - Writing efficient and clean code
 
 ## 📊 Progress Tracking
-|--------------------------------------------------------|
+
 | Category     | Problems Solved |    Difficulty Level   |
 |--------------|-----------------|-----------------------|
 | Mathematical |              3  | Beginner              |
