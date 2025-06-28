@@ -8,6 +8,15 @@ This repository contains my solutions to various Python programming problems fro
 - **[divisor.py](divisor.py)** - Find all divisors of a given number
 - **[factorial.py](factorial.py)** - Calculate factorial of a number
 - **[sum of n numbers.py](sum%20of%20n%20numbers.py)** - Sum of first N natural numbers
+- **[fibonacci number.py](fibonacci%20number.py)** - Find the nth Fibonacci number
+- **[next_prime.py](next_prime.py)** - Find the first prime number greater than n
+- **[prime number.py](prime%20number.py)** - Check if a number is prime
+- **[apterm.py](apterm.py)** - Arithmetic progression term calculation
+- **[arithmetic_operations.py](arithmetic_operations.py)** - Basic arithmetic operations
+
+### Operators Practice
+- **[bitwise_operators.py](bitwise_operators.py)** - Bitwise operations and manipulations
+- **[logical_operators.py](logical_operators.py)** - Logical operators and boolean operations
 
 ### Pattern Problems
 - **[right angle triangle.py](right%20angle%20triangle.py)** - Print right-angled triangle pattern
@@ -27,6 +36,7 @@ This repository contains my solutions to various Python programming problems fro
 - **[table difference.py](table%20difference.py)** - Table difference calculations
 
 
+
 ## 📖 Problem Sources
 
 - **GeeksforGeeks (GFG)** - Comprehensive programming problems
@@ -44,12 +54,13 @@ This repository contains my solutions to various Python programming problems fro
 
 | Category     | Problems Solved |    Difficulty Level   |
 |--------------|-----------------|-----------------------|
-| Mathematical |              3  | Beginner              |
+| Mathematical |              8  | Beginner-Intermediate |
+| Operators    |              2  | Beginner              |
 | Patterns     |              6  | Beginner-Intermediate |
 | Loops        |              3  | Beginner              |
 | Others       |              2  | Mixed                 |
 
-**Total Problems Solved: 14+**
+**Total Problems Solved: 21+**
 
 ## 🛠️ Code Structure
 
